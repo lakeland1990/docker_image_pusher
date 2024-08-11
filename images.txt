@@ -1,5 +1,5 @@
 postgres
 #支持私库
-zabbix/zabbix-web-nginx-pgsql:7.0.2-alpine
+timescale/timescaledb:2.14.2-pg16
 #支持指定架构
-zabbix-web-nginx-pgsql:7.0.2-alpine
+timescaledb:2.14.2-pg16
