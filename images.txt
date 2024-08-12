@@ -1,5 +1,5 @@
 postgres
 #支持私库
-zabbix/zabbix-web-nginx-pgsql:6.4.10-ubuntu
+zabbix/zabbix-web-nginx-pgsql:6.4.7-ubuntu
 #支持指定架构
-zabbix-web-nginx-pgsql:6.4.10-ubuntu
+zabbix-web-nginx-pgsql:6.4.7-ubuntu
