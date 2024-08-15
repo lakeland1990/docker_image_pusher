@@ -1,5 +1,5 @@
 postgres
 #支持私库
-zabbix/zabbix-snmptraps:7.0.2-ubuntu
+zabbix/zabbix-java-gateway:7.0.2-ubuntu
 #支持指定架构
-zabbix-snmptraps:7.0.2-ubuntu
+zabbix-java-gateway:7.0.2-ubuntu
