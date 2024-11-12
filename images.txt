@@ -1,5 +1,5 @@
 postgres
 #支持私库
-zabbix/zabbix-java-gateway:7.0.2-ubuntu
+registry.k8s.io/metrics-server/metrics-server:v0.7.2
 #支持指定架构
-zabbix-java-gateway:7.0.2-ubuntu
+metrics-server:v0.7.2
